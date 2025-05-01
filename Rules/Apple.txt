@@ -19,6 +19,11 @@ audio.itunes.apple.com
 blobstore.apple.com
 mvod.itunes.apple.com
 streamingaudio.itunes.apple.com
+radio.itunes.apple.com
+fpinit.itunes.apple.com
+musicstatus.itunes.apple.com
+p54-buy.itunes.apple.com
+itsliveradio.apple.com
 
 #Apple Intelligence
 apple-relay.cloudflare.com
