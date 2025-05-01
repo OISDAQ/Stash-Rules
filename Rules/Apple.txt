@@ -1,0 +1,27 @@
+#Apsn
+17.249.0.0/16
+17.252.0.0/16
+17.57.144.0/22
+17.188.128.0/18
+17.188.20.0/23
+2620:149:a44::/48
+2403:300:a42::/48
+2403:300:a51::/48
+2a01:b740:a42::/48
+
+#Apple Music
+.applemusic.com
+.music.apple.com
+aod-ssl.itunes.apple.com
+aod.itunes.apple.com
+audio-ssl.itunes.apple.com
+audio.itunes.apple.com
+blobstore.apple.com
+mvod.itunes.apple.com
+streamingaudio.itunes.apple.com
+
+#Apple Intelligence
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+cp4.cloudflare.com
+apple-relay.apple.com
