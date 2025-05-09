@@ -1,0 +1,15 @@
+.applemusic.com
+.music.apple.com
+aod-ssl.itunes.apple.com
+aod.itunes.apple.com
+audio-ssl.itunes.apple.com
+audio.itunes.apple.com
+blobstore.apple.com
+fpinit.itunes.apple.com
+itsliveradio.apple.com
+musicstatus.itunes.apple.com
+mvod.itunes.apple.com
+p54-buy.itunes.apple.com
+radio-activity.itunes.apple.com
+radio.itunes.apple.com
+streamingaudio.itunes.apple.com
