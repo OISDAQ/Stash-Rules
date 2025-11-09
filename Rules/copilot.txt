@@ -1,0 +1,12 @@
+#https://www.bilibili.com/opus/941013341562732548
+access-point.cloudmessaging.edge.microsoft.com
+sydney.bing.com
+browser.pipe.aria.microsoft.com
+www.bingapis.com
+functional.events.data.microsoft.com
+designer.microsoft.com
+edge.microsoft.com
+copilot.microsoft.com
+edgeservices.bing.com
+events.data.microsoft.com
+prod.do.dsp.mp.microsoft.com
